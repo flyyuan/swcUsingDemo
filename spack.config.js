@@ -27,7 +27,7 @@ module.exports = config({
       module: {
           type: "commonjs",  
           strict: false,
-          strictMode: true,
+          strictMode: false,
           lazy: false,
           noInterop: false,
           ignoreDynamic: false
